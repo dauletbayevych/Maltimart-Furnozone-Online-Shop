@@ -1,0 +1,11 @@
+.cart__section{
+  padding: 120px 0;
+}
+.table tr td img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}
+td i{
+  cursor: pointer;
+}

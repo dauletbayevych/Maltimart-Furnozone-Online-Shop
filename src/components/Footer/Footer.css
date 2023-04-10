@@ -1,0 +1,28 @@
+.footer {
+  padding-top: 60px;
+  /* margin-bottom: 30px; */
+  /* padding-bottom: 30px; */
+  background: var(--primary-color);
+  color: aliceblue;
+}
+
+.footer__text {
+  color: rgba(255, 255, 255, 0.705);
+}
+.footer__quick_link ul li,
+.footer__quick_link  i {
+  background: transparent;
+}
+.footer__quick_link ul li a {
+  color: rgba(255, 255, 255, 0.705) !important;
+}
+.footer__quick_link ul li a:hover{
+  color: rgba(15, 15, 233, 0.795) !important;
+  transition: all 0.5s ease;
+}
+
+@media only screen and (max-width: 576px) {
+  .copyright{
+    font-size: 0.9rem;
+  }
+}

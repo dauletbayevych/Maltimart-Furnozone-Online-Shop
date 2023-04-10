@@ -1,0 +1,13 @@
+.login__section{
+  padding: 100px 0;
+}
+.auth__form{
+  background: var(--primary-color);
+  padding: 40px;
+  border-radius: 3px;
+}
+.auth__btn{
+  background-color: #fff;
+  color: #000;
+  font-weight: 600;
+}

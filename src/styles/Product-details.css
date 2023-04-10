@@ -1,0 +1,46 @@
+.product__details {
+  margin-top: 60px;
+}
+.product__details h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+}
+.product__rating {
+  color: orange;
+}
+.product__rating p span {
+  color: orange;
+  font-weight: 500;
+}
+.product__price {
+  font-size: 1.9rem;
+  font-weight: 600;
+}
+.tab__wrapper {
+  font-size: 1rem;
+}
+.tab__wrapper h6 {
+  cursor: pointer;
+}
+.active__tab {
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.review__wrapper ul li span {
+  color: coral;
+  font-weight: 600;
+}
+
+.form__group span {
+  display: flex;
+  align-items: center;
+  color: coral;
+  margin: 0.5rem 0;
+  column-gap: 5px;
+  cursor: pointer;
+}
+.related__title{
+  font-size: 1.2rem;
+  font-weight: 600;
+}

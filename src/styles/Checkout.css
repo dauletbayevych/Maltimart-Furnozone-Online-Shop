@@ -1,0 +1,29 @@
+.checkout__section {
+  padding: 100px 0;
+}
+.checkout__cart {
+  /* display: flex; */
+  align-items: center;
+  justify-content: space-between;
+  background: var(--primary-color);
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+.checkout__cart h6,
+h4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.checkout__cart h6 {
+  margin-bottom: 20px;
+}
+.checkout__cart h4 {
+  border-top: 1px solid rgba(221, 221, 221, 0.329);
+  padding-top: 20px;
+}
+.checkout__cart .buy__btn {
+  background: white;
+  color: black;
+}
